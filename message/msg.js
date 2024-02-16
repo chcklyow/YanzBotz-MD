@@ -257,20 +257,20 @@ case prefix + ["menu"]: {
 client.sendMessage(from, { text: `*List menu YanzBotz-MD*
 
 々 *INFO USER*
-• Nama Owner : YanzBotzX
-• Nomer Owner : 085883359262
+• Nama Owner : Danar
+• Nomer Owner : 085669723793
 
 々 *MENU*
 .self
 .public`, 
                     contextInfo: { externalAdReply: {
-                    title: "YanzBotz-MD",
-					sourceUrl: "https://chat.whatsapp.com/KfQNICkv8CB7FgynDcbafX",
+                    title: "Danar",
+					sourceUrl: "https://chat.whatsapp.com/HeewM4Z1Ovj2xXx5ohjupQ",
 					mediaUrl: "https://github.com/YanzBotz/YanzBotz-MD",
 					mediaType: 1,
 					showAdAttribution: true,
 					renderLargerThumbnail: true,
-					thumbnailUrl: "https://telegra.ph/file/fe2bf76f0c23d1cbe79ec.jpg" }}}, {quoted: msg})
+					thumbnailUrl: "https://telegra.ph/EJEN-ALI-02-16" }}}, {quoted: msg})
 }
 break    
 
